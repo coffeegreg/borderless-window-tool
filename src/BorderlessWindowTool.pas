@@ -13,7 +13,7 @@ uses
 
 const
   APP_NAME = 'Borderless Window Tool';
-  APP_VERSION = 'v1.0';
+  APP_VERSION = 'v1.0.0';
   APP_COPYRIGHT = 'Copyright (c) 2023 Greg P. (https://github.com/coffeegreg)';
 
 type
