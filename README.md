@@ -18,7 +18,7 @@ Use `-h` or `--help` for a help screen.
 >```
 >start "" "your_application.exe"
 >timeout 3
->BorderlessWindowTool.exe -w "Your Application Window Tile" -b -f
+>BorderlessWindowTool.exe -w "Your Application Window Title" -b -f
 >```
 
 
